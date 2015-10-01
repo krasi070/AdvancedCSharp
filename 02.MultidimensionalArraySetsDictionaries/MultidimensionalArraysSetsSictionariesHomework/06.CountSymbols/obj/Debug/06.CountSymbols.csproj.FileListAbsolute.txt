@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\obj\Debug\06.CountSymbols.pdb
+C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\obj\Debug\06.CountSymbols.csprojResolveAssemblyReference.cache
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\obj\Debug\06.CountSymbols.pdb
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\obj\Debug\06.CountSymbols.csprojResolveAssemblyReference.cache
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\06.CountSymbols\bin\Debug\06.CountSymbols.pdb

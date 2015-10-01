@@ -1,0 +1,5 @@
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\04.TextFilter\bin\Debug\04.TextFilter.exe.config
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\04.TextFilter\bin\Debug\04.TextFilter.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\04.TextFilter\bin\Debug\04.TextFilter.pdb
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\04.TextFilter\obj\Debug\04.TextFilter.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\04.TextFilter\obj\Debug\04.TextFilter.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CensorEmail", "01.CensorEmail\01.CensorEmail.csproj", "{EC1E6F0D-6640-4E3E-A156-E9CD3D884CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1E6F0D-6640-4E3E-A156-E9CD3D884CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1E6F0D-6640-4E3E-A156-E9CD3D884CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1E6F0D-6640-4E3E-A156-E9CD3D884CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1E6F0D-6640-4E3E-A156-E9CD3D884CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

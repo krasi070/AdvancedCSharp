@@ -1,0 +1,6 @@
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\Exercise\01.CensorEmail\bin\Debug\01.CensorEmail.exe.config
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\Exercise\01.CensorEmail\obj\Debug\01.CensorEmail.csprojResolveAssemblyReference.cache
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\Exercise\01.CensorEmail\bin\Debug\01.CensorEmail.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\Exercise\01.CensorEmail\bin\Debug\01.CensorEmail.pdb
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\Exercise\01.CensorEmail\obj\Debug\01.CensorEmail.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\Exercise\01.CensorEmail\obj\Debug\01.CensorEmail.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueuesHomework\02.SortArraySelectionSort\bin\Debug\02.SortArraySelectionSort.exe.config
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueuesHomework\02.SortArraySelectionSort\bin\Debug\02.SortArraySelectionSort.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueuesHomework\02.SortArraySelectionSort\bin\Debug\02.SortArraySelectionSort.pdb
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueuesHomework\02.SortArraySelectionSort\obj\Debug\02.SortArraySelectionSort.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueuesHomework\02.SortArraySelectionSort\obj\Debug\02.SortArraySelectionSort.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\02.SnakeMatrix\bin\Debug\02.SnakeMatrix.exe.config
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\02.SnakeMatrix\bin\Debug\02.SnakeMatrix.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\02.SnakeMatrix\bin\Debug\02.SnakeMatrix.pdb
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\02.SnakeMatrix\obj\Debug\02.SnakeMatrix.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\02.SnakeMatrix\obj\Debug\02.SnakeMatrix.pdb

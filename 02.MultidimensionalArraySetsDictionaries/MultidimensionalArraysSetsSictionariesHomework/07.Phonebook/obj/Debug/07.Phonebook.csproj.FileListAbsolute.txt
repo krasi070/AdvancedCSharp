@@ -1,0 +1,5 @@
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\07.Phonebook\bin\Debug\07.Phonebook.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\07.Phonebook\bin\Debug\07.Phonebook.pdb
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\07.Phonebook\obj\Debug\07.Phonebook.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\07.Phonebook\obj\Debug\07.Phonebook.pdb
