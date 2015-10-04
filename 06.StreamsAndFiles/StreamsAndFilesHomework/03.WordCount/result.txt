@@ -1,0 +1,4 @@
+pie - 5
+kill - 4
+killer - 4
+murder - 1

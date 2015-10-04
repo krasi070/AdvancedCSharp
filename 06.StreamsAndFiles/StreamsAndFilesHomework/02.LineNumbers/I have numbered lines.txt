@@ -1,0 +1,10 @@
+1. I'm the first line!
+2. I'm the second line!
+3. I'm the third line!
+4. I don't which line I'm on :(
+5. I'm on the fifth line so the line above me should be the fourth.
+6. I'm the sixth line!
+7. I'm the seventh line!
+8. I'm the eighth line!
+9. I'm the ninth line!
+10. I'm the last line! All lines above me are under my command! Now go my lines! Take over this world for me!

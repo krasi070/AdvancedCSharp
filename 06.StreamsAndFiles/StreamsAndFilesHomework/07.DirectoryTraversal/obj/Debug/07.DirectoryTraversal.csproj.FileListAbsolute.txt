@@ -1,0 +1,6 @@
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe.config
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.pdb
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.csprojResolveAssemblyReference.cache
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.pdb

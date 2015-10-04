@@ -1,0 +1,5 @@
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\03.WordCount\bin\Debug\03.WordCount.exe.config
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\03.WordCount\bin\Debug\03.WordCount.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\03.WordCount\bin\Debug\03.WordCount.pdb
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\03.WordCount\obj\Debug\03.WordCount.csprojResolveAssemblyReference.cache
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\03.WordCount\obj\Debug\03.WordCount.exe
+D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\03.WordCount\obj\Debug\03.WordCount.pdb
