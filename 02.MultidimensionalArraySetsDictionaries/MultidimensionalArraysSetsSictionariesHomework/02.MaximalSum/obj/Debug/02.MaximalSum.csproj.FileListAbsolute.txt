@@ -1,9 +1,0 @@
-C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
-C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\02.MaximalSum\bin\Debug\02.MaximalSum.exe
-C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
-C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\02.MaximalSum\obj\Debug\02.MaximalSum.exe
-C:\Users\user\Desktop\MultidimensionalArraysSetsSictionariesHomework\02.MaximalSum\obj\Debug\02.MaximalSum.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\02.MaximalSum\obj\Debug\02.MaximalSum.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

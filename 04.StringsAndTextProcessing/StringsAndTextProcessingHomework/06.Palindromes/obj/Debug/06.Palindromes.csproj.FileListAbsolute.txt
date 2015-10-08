@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\06.Palindromes\obj\Debug\06.Palindromes.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\06.Palindromes\obj\Debug\06.Palindromes.pdb

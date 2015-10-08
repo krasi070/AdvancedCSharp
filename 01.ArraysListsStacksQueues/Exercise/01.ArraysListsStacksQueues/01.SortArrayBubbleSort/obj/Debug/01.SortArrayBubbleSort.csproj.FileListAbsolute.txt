@@ -1,9 +1,0 @@
-D:\SoftUni\Exercises\Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\01.SortArrayBubbleSort\bin\Debug\01.SortArrayBubbleSort.exe.config
-D:\SoftUni\Exercises\Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\01.SortArrayBubbleSort\bin\Debug\01.SortArrayBubbleSort.exe
-D:\SoftUni\Exercises\Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\01.SortArrayBubbleSort\bin\Debug\01.SortArrayBubbleSort.pdb
-D:\SoftUni\Exercises\Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\01.SortArrayBubbleSort\obj\Debug\01.SortArrayBubbleSort.csprojResolveAssemblyReference.cache
-D:\SoftUni\Exercises\Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\01.SortArrayBubbleSort\obj\Debug\01.SortArrayBubbleSort.exe
-D:\SoftUni\Exercises\Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\01.SortArrayBubbleSort\obj\Debug\01.SortArrayBubbleSort.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\Exercise\01.ArraysListsStacksQueues\01.SortArrayBubbleSort\bin\Debug\01.SortArrayBubbleSort.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\Exercise\01.ArraysListsStacksQueues\01.SortArrayBubbleSort\obj\Debug\01.SortArrayBubbleSort.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\Exercise\01.ArraysListsStacksQueues\01.SortArrayBubbleSort\obj\Debug\01.SortArrayBubbleSort.pdb

@@ -1,5 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\02.UppercaseCharsEvenPositions\bin\Debug\02.UppercaseCharsEvenPositions.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\02.UppercaseCharsEvenPositions\bin\Debug\02.UppercaseCharsEvenPositions.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\02.UppercaseCharsEvenPositions\bin\Debug\02.UppercaseCharsEvenPositions.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\02.UppercaseCharsEvenPositions\obj\Debug\02.UppercaseCharsEvenPositions.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\02.UppercaseCharsEvenPositions\obj\Debug\02.UppercaseCharsEvenPositions.pdb

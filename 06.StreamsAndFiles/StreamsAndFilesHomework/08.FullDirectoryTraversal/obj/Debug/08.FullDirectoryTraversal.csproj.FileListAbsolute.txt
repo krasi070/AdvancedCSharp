@@ -1,5 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\08.FullDirectoryTraversal\bin\Debug\08.FullDirectoryTraversal.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\08.FullDirectoryTraversal\bin\Debug\08.FullDirectoryTraversal.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\08.FullDirectoryTraversal\bin\Debug\08.FullDirectoryTraversal.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\08.FullDirectoryTraversal\obj\Debug\08.FullDirectoryTraversal.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\08.FullDirectoryTraversal\obj\Debug\08.FullDirectoryTraversal.pdb

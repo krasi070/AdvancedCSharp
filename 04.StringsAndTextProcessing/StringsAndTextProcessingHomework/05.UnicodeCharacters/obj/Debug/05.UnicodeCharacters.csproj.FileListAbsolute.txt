@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\04.StringsAndTextProcessing\StringsAndTextProcessingHomework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb

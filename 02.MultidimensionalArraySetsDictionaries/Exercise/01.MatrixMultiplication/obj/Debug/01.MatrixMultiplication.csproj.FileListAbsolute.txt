@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\01.MatrixMultiplication\bin\Debug\01.MatrixMultiplication.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\01.MatrixMultiplication\bin\Debug\01.MatrixMultiplication.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\01.MatrixMultiplication\bin\Debug\01.MatrixMultiplication.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\01.MatrixMultiplication\obj\Debug\01.MatrixMultiplication.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\01.MatrixMultiplication\obj\Debug\01.MatrixMultiplication.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\Exercise\01.MatrixMultiplication\obj\Debug\01.MatrixMultiplication.pdb

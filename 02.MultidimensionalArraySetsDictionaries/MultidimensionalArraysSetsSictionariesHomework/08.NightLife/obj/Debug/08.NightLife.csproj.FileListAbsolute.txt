@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\08.NightLife\bin\Debug\08.NightLife.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\08.NightLife\bin\Debug\08.NightLife.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\08.NightLife\bin\Debug\08.NightLife.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\08.NightLife\obj\Debug\08.NightLife.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\08.NightLife\obj\Debug\08.NightLife.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\02.MultidimensionalArraySetsDictionaries\MultidimensionalArraysSetsSictionariesHomework\08.NightLife\obj\Debug\08.NightLife.pdb

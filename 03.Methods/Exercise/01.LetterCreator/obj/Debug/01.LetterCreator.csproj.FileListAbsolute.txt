@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\01.LetterCreator\bin\Debug\01.LetterCreator.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\01.LetterCreator\bin\Debug\01.LetterCreator.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\01.LetterCreator\bin\Debug\01.LetterCreator.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\01.LetterCreator\obj\Debug\01.LetterCreator.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\01.LetterCreator\obj\Debug\01.LetterCreator.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\03.Methods\Exercise\01.LetterCreator\obj\Debug\01.LetterCreator.pdb

@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\06.StreamsAndFiles\StreamsAndFilesHomework\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.pdb

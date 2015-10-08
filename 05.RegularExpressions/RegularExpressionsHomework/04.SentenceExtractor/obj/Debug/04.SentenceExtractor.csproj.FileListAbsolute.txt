@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\RegularExpressionsHomework\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
-C:\Users\user\Desktop\RegularExpressionsHomework\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
-C:\Users\user\Desktop\RegularExpressionsHomework\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
-C:\Users\user\Desktop\RegularExpressionsHomework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\RegularExpressionsHomework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
-C:\Users\user\Desktop\RegularExpressionsHomework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb

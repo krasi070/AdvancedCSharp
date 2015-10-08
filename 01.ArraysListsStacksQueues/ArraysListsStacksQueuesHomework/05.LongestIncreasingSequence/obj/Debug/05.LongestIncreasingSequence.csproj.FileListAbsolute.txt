@@ -1,8 +1,0 @@
-G:\ArraysListsStacksQueuesHomework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
-G:\ArraysListsStacksQueuesHomework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe
-G:\ArraysListsStacksQueuesHomework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
-G:\ArraysListsStacksQueuesHomework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
-G:\ArraysListsStacksQueuesHomework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueuesHomework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueuesHomework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueuesHomework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb

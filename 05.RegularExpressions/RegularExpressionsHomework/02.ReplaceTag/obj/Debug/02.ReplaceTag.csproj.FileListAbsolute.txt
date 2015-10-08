@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\05.RegularExpressions\RegularExpressionsHomework\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\05.RegularExpressions\RegularExpressionsHomework\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\05.RegularExpressions\RegularExpressionsHomework\02.ReplaceTag\bin\Debug\02.ReplaceTag.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\05.RegularExpressions\RegularExpressionsHomework\02.ReplaceTag\obj\Debug\02.ReplaceTag.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\05.RegularExpressions\RegularExpressionsHomework\02.ReplaceTag\obj\Debug\02.ReplaceTag.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\05.RegularExpressions\RegularExpressionsHomework\02.ReplaceTag\obj\Debug\02.ReplaceTag.pdb
