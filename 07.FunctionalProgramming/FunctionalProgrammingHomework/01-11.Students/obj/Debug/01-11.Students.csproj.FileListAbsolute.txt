@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\07.FunctionalProgramming\FunctionalProgrammingHomework\01-11.Students\bin\Debug\01-11.Students.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\07.FunctionalProgramming\FunctionalProgrammingHomework\01-11.Students\bin\Debug\01-11.Students.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\07.FunctionalProgramming\FunctionalProgrammingHomework\01-11.Students\bin\Debug\01-11.Students.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\07.FunctionalProgramming\FunctionalProgrammingHomework\01-11.Students\obj\Debug\01-11.Students.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\07.FunctionalProgramming\FunctionalProgrammingHomework\01-11.Students\obj\Debug\01-11.Students.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\07.FunctionalProgramming\FunctionalProgrammingHomework\01-11.Students\obj\Debug\01-11.Students.pdb

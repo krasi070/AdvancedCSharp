@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\Exercise\MethodExtensionsExercise\01.ExtendTheStringBuilderClass\bin\Debug\01.ExtendTheStringBuilderClass.exe.config
-C:\Users\user\Desktop\Exercise\MethodExtensionsExercise\01.ExtendTheStringBuilderClass\obj\Debug\01.ExtendTheStringBuilderClass.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\Exercise\MethodExtensionsExercise\01.ExtendTheStringBuilderClass\bin\Debug\01.ExtendTheStringBuilderClass.exe
-C:\Users\user\Desktop\Exercise\MethodExtensionsExercise\01.ExtendTheStringBuilderClass\bin\Debug\01.ExtendTheStringBuilderClass.pdb
-C:\Users\user\Desktop\Exercise\MethodExtensionsExercise\01.ExtendTheStringBuilderClass\obj\Debug\01.ExtendTheStringBuilderClass.exe
-C:\Users\user\Desktop\Exercise\MethodExtensionsExercise\01.ExtendTheStringBuilderClass\obj\Debug\01.ExtendTheStringBuilderClass.pdb
