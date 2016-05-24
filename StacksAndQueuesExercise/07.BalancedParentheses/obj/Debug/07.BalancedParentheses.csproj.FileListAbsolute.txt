@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\StacksAndQueuesExercise\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.exe.config
-C:\Users\User\Desktop\StacksAndQueuesExercise\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.exe
-C:\Users\User\Desktop\StacksAndQueuesExercise\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.pdb
-C:\Users\User\Desktop\StacksAndQueuesExercise\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\StacksAndQueuesExercise\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.exe
-C:\Users\User\Desktop\StacksAndQueuesExercise\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.pdb

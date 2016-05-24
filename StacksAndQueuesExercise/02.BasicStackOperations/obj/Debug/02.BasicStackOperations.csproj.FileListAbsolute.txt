@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe.config
-C:\Users\User\Desktop\StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe
-C:\Users\User\Desktop\StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.pdb
-C:\Users\User\Desktop\StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.exe
-C:\Users\User\Desktop\StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.pdb

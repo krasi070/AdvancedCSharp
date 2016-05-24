@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\StacksAndQueuesExercise\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.exe.config
-C:\Users\User\Desktop\StacksAndQueuesExercise\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.exe
-C:\Users\User\Desktop\StacksAndQueuesExercise\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.pdb
-C:\Users\User\Desktop\StacksAndQueuesExercise\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.exe
-C:\Users\User\Desktop\StacksAndQueuesExercise\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.pdb

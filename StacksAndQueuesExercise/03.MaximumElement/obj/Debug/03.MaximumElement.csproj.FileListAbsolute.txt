@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\StacksAndQueuesExercise\03.MaximumElement\bin\Debug\03.MaximumElement.exe.config
-C:\Users\User\Desktop\StacksAndQueuesExercise\03.MaximumElement\bin\Debug\03.MaximumElement.exe
-C:\Users\User\Desktop\StacksAndQueuesExercise\03.MaximumElement\bin\Debug\03.MaximumElement.pdb
-C:\Users\User\Desktop\StacksAndQueuesExercise\03.MaximumElement\obj\Debug\03.MaximumElement.exe
-C:\Users\User\Desktop\StacksAndQueuesExercise\03.MaximumElement\obj\Debug\03.MaximumElement.pdb
