@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\StacksAndQueuesExercise\09.StackFibonacci\bin\Debug\09.StackFibonacci.exe.config
+C:\Users\User\Desktop\StacksAndQueuesExercise\09.StackFibonacci\bin\Debug\09.StackFibonacci.exe
+C:\Users\User\Desktop\StacksAndQueuesExercise\09.StackFibonacci\bin\Debug\09.StackFibonacci.pdb
+C:\Users\User\Desktop\StacksAndQueuesExercise\09.StackFibonacci\obj\Debug\09.StackFibonacci.exe
+C:\Users\User\Desktop\StacksAndQueuesExercise\09.StackFibonacci\obj\Debug\09.StackFibonacci.pdb

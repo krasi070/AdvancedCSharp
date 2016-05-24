@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\StacksAndQueuesExercise\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
+C:\Users\User\Desktop\StacksAndQueuesExercise\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
+C:\Users\User\Desktop\StacksAndQueuesExercise\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
+C:\Users\User\Desktop\StacksAndQueuesExercise\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\StacksAndQueuesExercise\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
+C:\Users\User\Desktop\StacksAndQueuesExercise\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\StacksAndQueuesExercise\05.CalculateSequenceWithQueues\bin\Debug\05.CalculateSequenceWithQueues.exe.config
+C:\Users\User\Desktop\StacksAndQueuesExercise\05.CalculateSequenceWithQueues\bin\Debug\05.CalculateSequenceWithQueues.exe
+C:\Users\User\Desktop\StacksAndQueuesExercise\05.CalculateSequenceWithQueues\bin\Debug\05.CalculateSequenceWithQueues.pdb
+C:\Users\User\Desktop\StacksAndQueuesExercise\05.CalculateSequenceWithQueues\obj\Debug\05.CalculateSequenceWithQueues.exe
+C:\Users\User\Desktop\StacksAndQueuesExercise\05.CalculateSequenceWithQueues\obj\Debug\05.CalculateSequenceWithQueues.pdb
